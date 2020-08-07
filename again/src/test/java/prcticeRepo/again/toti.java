@@ -6,7 +6,7 @@ public class toti {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("i love kabul");
+		System.out.println("i love kabul jan");
 		
 		
 		
